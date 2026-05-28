@@ -1,6 +1,6 @@
 # Olist Store Analytics
 
-> End-to-end exploratory data analysis of the Olist Brazilian e-commerce dataset — covering orders, customers, products, sellers, payments, and delivery performance across 2016–2018.
+> End-to-end exploratory data analysis of the Olist e-commerce dataset — covering orders, customers, products, sellers, payments, and delivery performance across 2016–2018.
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Data-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
